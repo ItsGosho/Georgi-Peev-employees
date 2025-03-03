@@ -1,0 +1,11 @@
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\App.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\models\Employee.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\models\EmployeeCommonWorkPair.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\models\EmployeeWorkLongestPair.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\models\LocalDateRange.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\models\Project.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\models\WorkAssignment.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\services\EmployeeProjectOverlapService.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\services\LongestWorkPairService.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\services\WorkAssignmentCSVReader.java
+C:\Programming Projects\Java\georgi-peev-employees\src\main\java\utils\WorkAssignmentUtils.java
